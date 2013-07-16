@@ -1,4 +1,4 @@
 scia
 ====
 
-SCIA SDK for PHP
+SCIA SDK
